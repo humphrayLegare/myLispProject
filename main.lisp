@@ -37,5 +37,7 @@
 (setf (slot-value *myhouse* 'city) "Seoul")
 (setf (slot-value *myhouse* 'color) "Grey")
 
+;;test
+
 
 
